@@ -500,4 +500,4 @@ The intended pipeline covers:
 2. Frontend type checking, unit tests, and production builds.
 3. Docker Compose stack startup and smoke testing.
 
-**CI status:** [Add verified GitHub Actions run link]
+**CI status:** https://github.com/Zaeroni/meridian-admin-console/actions
